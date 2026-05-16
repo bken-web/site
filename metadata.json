@@ -1,0 +1,8 @@
+{
+  "name": "b.ken | Financial Innovation",
+  "description": "Premium consulting specializing in digital modernization, edtech, and gamified financial literacy for banks and credit unions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
